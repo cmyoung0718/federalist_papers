@@ -1,3 +1,3 @@
 # Disputed Authorship of Federalist Papers
 
-With Alexander Hamilton being in the spotlight these days, I decided to tackle the problem of predicting the authorship of the 12 disputed Federalist Paper essays using machine learning.  This is still a work in progress.
+With Alexander Hamilton being in the spotlight these days, I decided to tackle the problem of predicting the authorship of the 12 disputed Federalist Paper essays using machine learning.  I utilized web scraping, natural language processing (bag of words), and a SVM classification model to determine the author of the 12 disputed essays.  The model has a mean accuracy, f1-score, and AUC of 0.90.  The results agree with the concensus that Madison wrote all 12 essays.
